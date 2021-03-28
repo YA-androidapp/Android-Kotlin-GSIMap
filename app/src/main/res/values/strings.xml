@@ -1,0 +1,5 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">GSIMap</string>
+    <string name="permissions_are_requested">Permissions are requested.</string>
+</resources><!--Copyright (c) 2021 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.-->
